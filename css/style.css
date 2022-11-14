@@ -1,0 +1,106 @@
+.container{
+    width: 1280px;
+    margin: 0 auto;
+}
+/* ჰედერი იწყება აქ */
+header{
+    height: 150px;
+    display: inline-block;
+}
+h1{
+    font-size: 70px;
+    font-family: bold;
+    color: #36413e;
+    padding: 40px 860px 55px 44px;
+    margin-right: 72px;
+}
+.ul li{
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 102px;
+}
+.div1{
+    display: block;
+    margin: -100px 66px 67px 350px;
+}
+.img1{
+    display: block;
+    margin-left: 1198px;
+    margin-top: -80px;
+}
+/* ჰედერის დასასრული */
+/* პირველი ცენტრალური ნაწილი იწყბა აქ */
+.section1{
+    height: 779px;
+    background-color: #306b34;
+    display: inline-block;
+}
+.book{
+    padding: 174px 506px 702px 95px;
+}
+.h2{
+    display: block;
+    color: #19381f;
+    font-size: 40px;
+    margin: -1150px 100px 561px 865px;
+}
+.text1{ 
+    width: 250px;
+    display: block;
+    font-size: 20px;
+    font-family: italic;
+    color: #f4f4f1;
+    margin: -500px 110px 211px 863px; 
+}
+/* პირველი ცენტრალური ნაწილი დამთავრდა აქ */
+/* მეორე ცენტრალური ნაწილი დაიწყო აქ */
+.h22{
+    width: 272px;
+    height: 46px;
+    font-size: 40px;
+    color: #36413e;
+    margin-left: 527px;
+    display: block;
+    margin-top: 100px;
+    font-family: italic;
+}
+.text2{
+    width: 959px;
+    height: 126px;
+    font-size: 20px;
+    color: #7f7f7f;
+    margin: 72px 137px 150px 184px;
+    text-align: center;
+}
+.div2{
+    width: 148px;
+    height: 48px;
+    background-color: #36413e;
+    margin-left: 590px;
+    margin-top: -100px;
+    margin-bottom: 33px;
+}
+.text3{
+    color: #ffffff;
+    padding: 19px 25px;
+    font-size: 12px;
+}
+/* მეორე ცენტრალური ნაწილი დამთავრდა აქ */
+/* ფუტერი იწყება აქ */
+footer{
+    height: 68px;
+    background-color: #306b34;
+}
+.text4{
+    font-family: bold;
+    font-size: 20px;
+    color: #f4f4f1;
+    padding: 25px 1098px 27px 72px;
+}
+.text5{
+    display: block;
+    font-size: 12px;
+    color: #f4f4f1;
+    margin: -40px 109px 23px 906px;
+}
+/* ფუტერის დასასრული */
